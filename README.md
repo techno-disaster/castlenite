@@ -1,2 +1,3 @@
 # castlenite
-Simple text based RPG game to beat fortnite ;)
+Simple text based Avengers RPG game to beat fortnite ;)
+(includes the original 6 Avengers, Loki, Thanos & Galactus too!!!!
